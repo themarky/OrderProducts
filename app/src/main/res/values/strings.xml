@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Order Products</string>
+    <string name="quantity">Quantity:</string>
+    <string name="quantityCount">0</string>
+    <string name="price">Price:</string>
+    <string name="priceCount">$0</string>
+    <string name="orderBtn">Order</string>
+    <string name="Increment">+</string>
+    <string name="decrement">-</string>
+    <string name="backBtn">Back</string>
+</resources>
